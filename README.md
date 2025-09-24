@@ -1,4 +1,4 @@
-# 🌐 Foodies Project
+# 🌐 Syllabus Project
 
 ## 📌 **Overview**
 
@@ -18,7 +18,9 @@
 
 ---
 
-![Project Preview 2]()
+## 📌 Preview-2
+
+![Project Preview 2](https://github.com/bhavani-mhrl/syllabus-project/blob/c4bc29721dbfcc35dd15757d8480c0f0f23675e7/Screenshot%202025-09-24%20103514.png)
 
 ---
 
@@ -31,5 +33,5 @@
 
 🙌 **Thank You!**
 
-👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,RockPaperScissors)
+👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,Yllabus-project)
 
