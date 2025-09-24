@@ -33,5 +33,5 @@
 
 🙌 **Thank You!**
 
-👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,Yllabus-project)
+👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,syllabus-project)
 
