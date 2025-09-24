@@ -14,7 +14,11 @@
 
 ## 📸Preview of Project
 
-![Project view]()
+![Project view](https://github.com/bhavani-mhrl/syllabus-project/blob/94955397cce74c7ec37b8828bcfea79f9cbb9156/Screenshot%202025-09-24%20103459.png)
+
+---
+
+![Project Preview 2]()
 
 ---
 
