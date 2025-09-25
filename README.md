@@ -6,8 +6,9 @@
 
 ## 🔑 Why i have built this!
 
-- **Enhnace-Skills** - Enhance Skills To Improve and Gain Knowledge
-- **Creative Thinking** - User friendly Interactive pages 
+- **Enhnace-Skills** - Enhance Skills To Improve and Strengthen my Front-end skills
+  
+- **Creative Thinking** - To create User friendly Interactive pages 
 
 ---
 
