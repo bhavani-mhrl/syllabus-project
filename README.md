@@ -1,14 +1,20 @@
-# 🌐 Syllabus Project
+# 📚 Syllabus Project
 
 ## 📌 **Overview**
 
-- **Built a Frontend Project with some basic Section**
+- **This project is a structured and responsive Syllabus webpage created using HTML and CSS, designed to present academic course details in a clear, organized, and visually appealing format. It serves as a digital syllabus template for educators, students, or institutions to showcase course objectives, topics, timelines, and resources**
+
+🧾 Key Features
+- Clean layout with sections for course overview and course schedule
+- Styled headings, tables, and lists for easy readability
+- Semantic HTML structure for accessibility and clarity
+- Custom CSS styling for fonts, colors, spacing, and visual hierarchy
 
 ## 🔑 Why i have built this!
 
-- **Enhnace-Skills** - Enhance Skills To Improve and Strengthen my Front-end skills
-  
-- **Creative Thinking** - To create User friendly Interactive pages 
+- Practice structuring academic content using semantic HTML
+- Explore layout design and styling techniques with CSS
+- Serve as a portfolio piece demonstrating practical frontend skills in educational contexts
 
 ---
 
@@ -27,8 +33,8 @@
 
 ## 💻 Technologies Used
 
-- **HTML** – Provides the structure and content of the website.
-- **CSS** – Styles the website for an engaging user experience.
+- **HTML5** – Provides the structure and content of the website.
+- **CSS3** – Styles the website for an engaging user experience.
 ---
 
 
